@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">API Pengguna GitHub</string>
+    <string name="profile_picture">Foto Profil</string>
+    <string name="app_icon">Ikon App</string>
+    <string name="github_search">Cari Pengguna GitHub</string>
+    <string name="search_hint">Cari Pengguna</string>
+    <string name="information">Tekan ikon kaca pembesar di ujung kanan</string>
+    <string name="not_found">Pengguna tidak ditemukan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="Kval">%srb</string>
+    <string name="Mval">%sjt</string>
+    <string name="Bval">%sm</string>
+    <string name="go_to_user_profile_at_github">Ke profil pengguna di GitHub</string>
+    <string name="no_list">Tidak ada %s</string>
+</resources>

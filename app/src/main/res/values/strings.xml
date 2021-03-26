@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub User API</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="app_icon">App Icon</string>
+    <string name="github_search">GitHub Search User</string>
+    <string name="search_hint">Search for Users</string>
+    <string name="information">Press magnify icon at right corner</string>
+    <string name="not_found">User not found</string>
+    <string name="repos" translatable="false">Repos</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="Kval">%sk</string>
+    <string name="Mval">%sm</string>
+    <string name="Bval">%sb</string>
+    <string name="go_to_user_profile_at_github">Go to User Profile at GitHub</string>
+    <string name="no_list">No %s</string>
+</resources>
